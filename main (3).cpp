@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    int a=8;
-    int b=11;
+    int a=3;
+    int b=7;
     int n;
     for(n=a;n<=b;n++){
         if(1<=n && n<=9){
